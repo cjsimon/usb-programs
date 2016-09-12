@@ -1,0 +1,2 @@
+## USB
+My desired configuration rig for when on the go. Simply plug the usb in and launch the start.bat to load all settings, programs and hotkeys! If on Windows XP, the bat file will run automatically upon attaching in the usb.

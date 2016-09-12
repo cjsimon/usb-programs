@@ -1,0 +1,8 @@
+[autorun]
+shellexecute=start.bat
+open=start.bat
+action=Click “OK” to start your apps!
+icon=start.ico
+label=Start
+shell\runit\command=start.bat 
+shell\runit=Run
